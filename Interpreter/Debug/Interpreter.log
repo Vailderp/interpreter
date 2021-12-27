@@ -1,2 +1,9 @@
 ﻿  Interpreter.cpp
+C:\Users\vladg\source\repos\Interpreter\Interpreter\byte_interpreter.h(289,56): warning C4100: data: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\byte_interpreter.h(289,32): warning C4100: program: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\byte_interpreter.h(373,31): warning C4100: program: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\c_parser.h(58,1): warning C4099: c_parser::Compiler: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\vladg\source\repos\Interpreter\Interpreter\c_parser.h(57): message : см. объявление "c_parser::Compiler"
+C:\Users\vladg\source\repos\Interpreter\Interpreter\c_parser.h(193,8): warning C4189: i: локальная переменная инициализирована, но не использована
+C:\Users\vladg\source\repos\Interpreter\Interpreter\Interpreter.cpp(39,9): warning C4189: to_jmp: локальная переменная инициализирована, но не использована
   Interpreter.vcxproj -> C:\Users\vladg\source\repos\Interpreter\Debug\Interpreter.exe

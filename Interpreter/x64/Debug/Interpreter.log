@@ -1,2 +1,11 @@
 ﻿  Interpreter.cpp
+C:\Users\vladg\source\repos\Interpreter\Interpreter\byte_interpreter.h(289,56): warning C4100: data: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\byte_interpreter.h(289,32): warning C4100: program: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\byte_interpreter.h(373,31): warning C4100: program: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\c_parser.h(201,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\source\repos\Interpreter\Interpreter\c_parser.h(352,41): warning C4100: byte_offset: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\c_parser.h(352,25): warning C4100: success: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\c_parser.h(357,41): warning C4100: byte_offset: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\c_parser.h(357,25): warning C4100: warning: неиспользованный формальный параметр
+C:\Users\vladg\source\repos\Interpreter\Interpreter\Interpreter.cpp(39,9): warning C4189: to_jmp: локальная переменная инициализирована, но не использована
   Interpreter.vcxproj -> C:\Users\vladg\source\repos\Interpreter\x64\Debug\Interpreter.exe
